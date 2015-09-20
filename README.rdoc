@@ -2,8 +2,8 @@
 
 Things you may want to cover:
 
-* Ruby version: **2.2.3**
+* Ruby version: *2.2.3*
 
-* Rails version: **4.2.4**
+* Rails version: *4.2.4*
 
-* Database: **Sqlite 3**
+* Database: *Sqlite* *3*
