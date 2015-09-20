@@ -1,0 +1,2 @@
+class CountryParamsController < ApplicationController
+end
